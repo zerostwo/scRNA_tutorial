@@ -1,3 +1,12 @@
+#### Information ----
+# Title   :   Double cells prediction
+# File    :   doublefinder.R
+# Author  :   Songqi Duan
+# Contact :   songqi.duan@outlook.com
+# License :   Copyright (C) by Songqi Duan
+# Created :   2021/06/24 16:06:40
+# Updated :   none
+
 #### 加载包 ----
 library(DoubletFinder)
 library(tidyverse)

@@ -1,3 +1,12 @@
+#### Information ----
+# Title   :   Initialize the project file 
+# File    :   init.R
+# Author  :   Songqi Duan
+# Contact :   songqi.duan@outlook.com
+# License :   Copyright (C) by Songqi Duan
+# Created :   2021/06/26 17:22:34
+# Updated :   none
+
 # 创建保存Seurat对象文件夹
 dir.create("./output/seurat")
 

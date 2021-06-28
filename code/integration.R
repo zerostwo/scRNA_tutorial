@@ -1,3 +1,12 @@
+#### Information ----
+# Title   :   Integrate multiple sample data 
+# File    :   integration.R
+# Author  :   Songqi Duan
+# Contact :   songqi.duan@outlook.com
+# License :   Copyright (C) by Songqi Duan
+# Created :   2021/06/28 14:05:14
+# Updated :   none
+
 #### 加载包 ----
 library(Seurat)
 library(patchwork)
